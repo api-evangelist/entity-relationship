@@ -1,4 +1,5 @@
 aid: entity-relationship
+x-type: concept
 name: Entity Relationship
 description: >-
   Entity-Relationship (ER) modeling is a data modeling technique used to
